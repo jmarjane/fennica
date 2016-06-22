@@ -52,7 +52,7 @@ kun <- kun %>% filter(publication_year >= min.year & publication_year <= max.yea
 
 
 
-Printing in a Periphery: a Quantitative Study of Finnish Knowledge Production, 1640-1828
+Printing in a Periphery: a Quantitative Study of Knowledge Production in Sweden and Finland, 1640-1828
 ==============
 
 ## Introduction (MT + JM voi jo kasata tähän hyvää läppää + viitteitä)
